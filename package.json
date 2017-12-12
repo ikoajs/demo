@@ -1,0 +1,15 @@
+{
+  "name": "ikoa-demo",
+  "version": "0.0.1",
+  "description": "koa/ikoa demo",
+  "main": "index.js",
+  "repository": "https://github.com/ikoajs/demo.git",
+  "author": "Jiangtao <321jiangtao@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "koa": "^2.4.1",
+    "lru-cache": "^4.1.1",
+    "mz": "^2.7.0"
+  }
+}
